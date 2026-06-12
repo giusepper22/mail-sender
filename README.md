@@ -183,7 +183,3 @@ MIT License
 ## 👨‍💻 Autore
 
 guisepper22
-
----
-
-**Fatto con ❤️ per il tuo primo progetto blockchain!**
